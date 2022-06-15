@@ -1,0 +1,3 @@
+[submodule "lib/U8g2_Arduino"]
+	path = lib/U8g2_Arduino
+	url = git@github.com:morlac/U8g2_Arduino.git
